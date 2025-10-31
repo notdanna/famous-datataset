@@ -1,0 +1,1 @@
+# Programa para normalizar imágenes en un directorio.
